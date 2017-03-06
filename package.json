@@ -1,0 +1,22 @@
+{
+  "name": "threex.rendererstats",
+  "version": "0.1.0",
+  "description": "A three.js extension to display realtime informations about THREE.WebGLRenderer.",
+  "main": "threex.rendererstats.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maveric1977/threex.rendererstats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maveric1977/threex.rendererstats/issues"
+  },
+  "homepage": "https://github.com/maveric1977/threex.rendererstats#readme"
+}
